@@ -3,7 +3,7 @@
     "required_model_lib_version": "5.0.0",
     "community_folder_name": "Community",
     "onestore_folder_name": "OneStore",
-    "community_folder_conflicts": ["z_airport-nzmf","sdr-airport-nzmf-milford_2.5","orbx-mesh-new-zealand"]
-    "onestore_folder_conflicts": ["microsoft-airport-nzmj-martinsbay","microsoft-airport-nzmf-milfordsound","microsoft-airport-t004-quintinlodge"]
+    "community_folder_conflicts": ["z_airport-nzmf","sdr-airport-nzmf-milford_2.5","orbx-mesh-new-zealand"],
+    "onestore_folder_conflicts": ["microsoft-airport-nzmj-martinsbay","microsoft-airport-nzmf-milfordsound","microsoft-airport-t004-quintinlodge"],
     
   }
