@@ -5,7 +5,7 @@
    "onestore_folder_name":"OneStore",
    "community_folder_conflicts":[
       "z_airport-nzmf",
-      "sdr-airport-nzmf-milford_2.5",
+      "sdr-airport-nzmf-milford_2.5"
    ],
    "onestore_folder_conflicts":[
       "microsoft-airport-nzmj-martinsbay",
